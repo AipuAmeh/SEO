@@ -1,4 +1,4 @@
-# week-one
+# SEO
 Week one challenge assignment 
 # Challenge 1: Marketing Assignment
 
