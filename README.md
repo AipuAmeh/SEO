@@ -10,7 +10,7 @@ This assignment consisted of tasks that helped boost the accessibility of an onl
 
 ## Installation
 
-[Deployed Website]:(https://aipuameh.github.io/week-one/)
+[Deployed Horiseon Website](https://aipuameh.github.io/week-one/).
 
 ## Usage
 
